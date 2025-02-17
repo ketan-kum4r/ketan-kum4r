@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](#) (Coming Soon)
-- 🐦 [Twitter](#) (Your Twitter Handle)
-- 💼 [LinkedIn](#) (Your LinkedIn Profile)
 
 Feel free to explore my repositories and drop a ⭐ if you like my work!
